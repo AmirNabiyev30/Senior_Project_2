@@ -77,10 +77,6 @@ Results are saved to `reacher_results.csv`.
 
 Early stage. Results so far come from short, single-seed runs and are preliminary. Next: longer training, multiple seeds, stronger physics shifts, and a literature check on novelty.
 
-## AI assistance
-
-The experiment scripts were drafted with help from Claude (Anthropic), then run and reviewed by the team.
-
 ## License
 
 MIT
